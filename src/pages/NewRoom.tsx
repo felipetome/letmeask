@@ -10,7 +10,7 @@ import { useAuth } from '../hooks/UseAuth'
 
 
 export function NewRoom(){
-  const {user} = useAuth();
+  // const {user} = useAuth();
   
 
   return(
